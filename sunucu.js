@@ -54,3 +54,4 @@ server.listen(3000, () => {
     console.log('Sunucu 3000 portunda calisiyor...');
 });
 // Bu satir MASTER dalinda eklendi
+// Bu satir test dalinda eklendi
